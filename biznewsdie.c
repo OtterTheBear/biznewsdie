@@ -47,4 +47,3 @@ int main() {
     } while (getchr());
     return 0;
 }
-
